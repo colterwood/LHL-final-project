@@ -50,7 +50,7 @@ Due to the very high R-squared, we are able to confidently determine that there 
 We also learned that 80% or more of the Points of Interest found did not have a rating on Yelp.
 
 ## Challenges 
-Foursquare and Yelp datasets contain significant missing data and occassional inaccurate data, such as physical business address actually being the mailing address of the business owner. Majority of inaccuracies are solved by merging the 2 datasets though.
+Foursquare and Yelp datasets contain significant missing data and occassional inaccurate data, such as physical business address actually being the mailing address of the business owner or the business name being the registered Corporate name not the DBA name of the business. Majority of inaccuracies are solved by merging the 2 datasets though.
 
 
 ## Future Goals
