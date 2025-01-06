@@ -45,6 +45,9 @@ Unsurprisingly, it was determined that there was little correlation between the 
 1. R² is computed without centering since the model does not contain a constant.
 2. Standard Errors assume that the covariance matrix of the errors is correctly specified.
 
+Due to the very high R-squared, we are able to confidently determine that there is not a strong relationship between the City Bikes station locations and their distance from the chosen Points of Interest.
+
+We also learned that 80% or more of the Points of Interest found did not have a rating on Yelp.
 
 ## Challenges 
 Foursquare and Yelp datasets contain significant missing data and occassional inaccurate data, such as physical business address actually being the mailing address of the business owner. Majority of inaccuracies are solved by merging the 2 datasets though.
